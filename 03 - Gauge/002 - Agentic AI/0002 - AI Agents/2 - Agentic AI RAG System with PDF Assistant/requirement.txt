@@ -1,0 +1,7 @@
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+groq
+phidata
+python-dotenv
