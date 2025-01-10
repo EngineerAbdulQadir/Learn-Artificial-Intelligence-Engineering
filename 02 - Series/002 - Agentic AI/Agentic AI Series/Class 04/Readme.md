@@ -1,5 +1,3 @@
-
-
 # Agentic AI Series - Class 04
 
 ## **Introduction**
