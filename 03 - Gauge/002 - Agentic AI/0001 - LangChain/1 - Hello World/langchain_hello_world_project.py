@@ -1,8 +1,3 @@
-# Project 1: LangChain Hello World Project
-
-### LangChain Is A Python Library
-"""
-
 !pip install langchain
 
 """### LangChain Software Development Kit"""

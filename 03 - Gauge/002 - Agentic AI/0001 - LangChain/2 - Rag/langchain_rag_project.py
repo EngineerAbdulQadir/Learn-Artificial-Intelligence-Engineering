@@ -1,9 +1,4 @@
-# Project 2: LangChain RAG Project
-
-"""
-
-# Commented out IPython magic to ensure Python compatibility.
-# %pip install -qU langchain-pinecone langchain-google-genai
+%pip install -qU langchain-pinecone langchain-google-genai
 
 from google.colab import userdata
 
